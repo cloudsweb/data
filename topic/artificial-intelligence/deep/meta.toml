@@ -1,0 +1,6 @@
+[topic]
+name = "deep"
+
+[display]
+en_US = "Deep Learning"
+zh_CN = "深度学习"

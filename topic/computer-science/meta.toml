@@ -1,0 +1,7 @@
+[topic]
+name = "computer-science"
+sub-topics = [ "artificial-intelligence" ]
+
+[display]
+en_US = "Computer Science"
+zh_CN = "计算机科学"

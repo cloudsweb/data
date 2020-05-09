@@ -1,0 +1,6 @@
+[topic]
+name = "artificial-intelligence"
+sub-topics = [ "@/deep" ]
+
+[display]
+en_US = "AI"
