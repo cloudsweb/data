@@ -3,5 +3,5 @@ name = "~root"
 sub-topics = [ "mathematics", "computer-science" ]
 
 [display]
-en_US = "root"
-zh_CN = "根"
+en_US = "~root"
+zh_CN = "~根"
