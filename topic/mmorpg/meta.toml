@@ -1,0 +1,7 @@
+[topic]
+name = "mmorpg"
+sub-topics = [ "@/jx3" ]
+
+[display]
+en_US = "MMORPG"
+zh_CN = "网游"

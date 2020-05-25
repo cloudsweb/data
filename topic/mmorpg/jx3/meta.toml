@@ -1,0 +1,7 @@
+[topic]
+name = "jx3"
+nodes = [ "house", "jjc", "raid" ]
+
+[display]
+en_US = "Sword Online 3"
+zh_CN = "剑网3"

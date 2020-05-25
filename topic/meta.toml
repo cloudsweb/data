@@ -1,6 +1,6 @@
 [topic]
 name = "~root"
-sub-topics = [ "mathematics", "computer-science" ]
+sub-topics = [ "mathematics", "computer-science", "mmorpg" ]
 
 [display]
 en_US = "~root"
